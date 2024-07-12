@@ -1,1 +1,1 @@
-number = '+237675858222'
+number = '#include phone number to be tracked here'
